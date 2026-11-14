@@ -123,3 +123,44 @@ This task improved my understanding of data analysis, statistical summaries, dat
 **Task:** Task 2 – Exploratory Data Analysis (EDA)  
 **Status:** Completed
 
+---
+
+# Task 3 – Interactive Power BI Dashboard
+
+## Project Overview
+Created an interactive Titanic Survival Analysis Dashboard using Microsoft Power BI.
+
+## Tools Used
+- Microsoft Power BI
+- DAX
+- Power Query
+
+## Key Performance Indicators (KPIs)
+- Total Passengers: 891
+- Total Survivors: 342
+- Non-Survivors: 549
+- Survival Rate: 38.38%
+
+## Dashboard Visualizations
+1. Gender-wise Survival Analysis
+2. Passenger Class Survival Analysis
+3. Age Group Survival Analysis
+4. Embarked Port Survival Analysis
+
+## Interactive Filters
+- Gender
+- Passenger Class
+- Embarked Port
+- Survival Status
+
+## Key Findings
+- Female passengers had higher survival rates than male passengers.
+- First-class passengers had better survival chances than third-class passengers.
+- Survival patterns varied across different age groups.
+
+## Project Files
+- Titanic_Survival_Analysis.pbix
+- Titanic_Dashboard_Screenshot.png
+
+## Conclusion
+This dashboard provides interactive insights into Titanic passenger survival using data visualization and business intelligence techniques.
